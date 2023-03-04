@@ -11,6 +11,8 @@ public class TiposVariaveis {
         final int NUMERO = 1;
         //NUMERO = 2;
 
+        System.out.println(salarioMinimo + numeroCurto2 + NUMERO);
+
 
     }
 }
