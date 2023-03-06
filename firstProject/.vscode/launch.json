@@ -1,0 +1,69 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.fernando.primeira_aula.MinhaClasse",
+            "projectName": "firstProject_3790cf45"
+        },
+        {
+            "type": "java",
+            "name": "operadores",
+            "request": "launch",
+            "mainClass": "edu.fernando.quarta_aula.operadores",
+            "projectName": "firstProject_3790cf45"
+        },
+        {
+            "type": "java",
+            "name": "usuario",
+            "request": "launch",
+            "mainClass": "edu.fernando.quinta_aula.usuario",
+            "projectName": "firstProject_3790cf45"
+        },
+        {
+            "type": "java",
+            "name": "BoletinEstudantil",
+            "request": "launch",
+            "mainClass": "edu.fernando.segunda_aula.BoletinEstudantil",
+            "projectName": "firstProject_3790cf45"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.fernando.setima_aula.AboutMe",
+            "args": [
+                "Fernando",
+                "Ozaki",
+                "32",
+                "1.71"
+            ],
+            "projectName": "firstProject_3790cf45"
+        },
+        {
+            "type": "java",
+            "name": "minhaClasse",
+            "request": "launch",
+            "mainClass": "edu.fernando.setima_aula.minhaClasse",
+            "projectName": "firstProject_3790cf45"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.fernando.terceira_aula.TiposVariaveis",
+            "projectName": "firstProject_3790cf45"
+        }
+    ]
+}
